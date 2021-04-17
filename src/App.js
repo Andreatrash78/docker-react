@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Ho messo un nuovo messaggio. Lo vedete? 
+         Ho messo un nuovo messaggio. Sono sul branch feature. 
         </p>
         <a
           className="App-link"
